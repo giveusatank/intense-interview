@@ -13,6 +13,8 @@
         <module>algorithm</module>
         <module>jvm</module>
         <module>hive-sql</module>
+        <module>scala-base</module>
+        <module>java-base</module>
     </modules>
 
     <properties>
@@ -27,6 +29,14 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
+
+
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.9.9</version>
+        </dependency>
+
     </dependencies>
 
 </project>
