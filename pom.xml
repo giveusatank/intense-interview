@@ -15,6 +15,7 @@
         <module>hive-sql</module>
         <module>scala-base</module>
         <module>java-base</module>
+        <module>spark-base</module>
     </modules>
 
     <properties>

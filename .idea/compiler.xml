@@ -7,9 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jvm" />
+        <module name="multithreads" />
+        <module name="spark-base" />
         <module name="hive-sql" />
         <module name="java-base" />
-        <module name="multithreads" />
         <module name="scala-base" />
         <module name="algorithm" />
       </profile>
