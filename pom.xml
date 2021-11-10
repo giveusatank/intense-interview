@@ -16,6 +16,7 @@
         <module>scala-base</module>
         <module>java-base</module>
         <module>spark-base</module>
+        <module>flink-base</module>
     </modules>
 
     <properties>

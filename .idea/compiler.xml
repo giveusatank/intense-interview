@@ -9,6 +9,7 @@
         <module name="jvm" />
         <module name="multithreads" />
         <module name="spark-base" />
+        <module name="flink-base" />
         <module name="hive-sql" />
         <module name="java-base" />
         <module name="scala-base" />
